@@ -11,14 +11,14 @@
 	<title>Danilo Toapanta</title>
 	<atom:link href="https://danilotpnta.github.io/grid/feed/" rel="self" type="application/rss+xml" />
 	<link>https://danilotpnta.github.io/grid/</link>
-	<description>Linktree page </description>
-	<lastBuildDate>Mon, 18 Apr 2022 14:16:54 +0000</lastBuildDate>
+	<description>Linktree page</description>
+	<lastBuildDate>Wed, 07 Dec 2022 18:45:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Where to Click Next</title>
 		<link>https://danilotpnta.github.io/grid/where-to-click-next/</link>
@@ -28,21 +28,17 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://danilotpnta.github.io/grid/?p=27</guid>
 
-					<description><![CDATA[Portfolio&#124; Academic Career &#38; Projects Well Dressed Man &#124; 1k+ pageviews per month Planet 101 &#124; A vault of photographic memories Medium&#124; New-ish hustle for CS content]]></description>
+					<description><![CDATA[Personal Website&#124; Academic Career &#38; Projects Fotografie&#124; Portfolio of my best pictures MLEE23 &#60;WIP>&#124; A course in ML for MSc students]]></description>
 										<content:encoded><![CDATA[
-<h4><a rel="noreferrer noopener" href="http://www.themodestman.com/" target="_blank">Portfolio</a>| Academic Career &amp; Projects</h4>
+<h4>Personal Website| Academic Career &amp; Projects</h4>
 
 
 
-<h4>Well Dressed Man | 1k+ pageviews per month</h4>
+<h4>Fotografie| Portfolio of my best pictures</h4>
 
 
 
-<h4>Planet 101 | A vault of photographic memories </h4>
-
-
-
-<h4><a rel="noreferrer noopener" href="https://theslenderwrist.com/" target="_blank">Medium</a>| New-ish hustle for CS content</h4>
+<h4>MLEE23 &lt;WIP>| A course in ML for MSc students </h4>
 
 
 

@@ -10,12 +10,12 @@
 	Comments on: Privacy Policy	</title>
 	<atom:link href="https://danilotpnta.github.io/grid/privacy-policy/feed/" rel="self" type="application/rss+xml" />
 	<link>https://danilotpnta.github.io/grid/</link>
-	<description>Linktree page </description>
+	<description>Linktree page</description>
 	<lastBuildDate>Mon, 18 Apr 2022 14:32:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
